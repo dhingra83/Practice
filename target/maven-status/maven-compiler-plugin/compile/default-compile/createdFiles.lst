@@ -1,0 +1,7 @@
+com/exercise/service/IStudentService.class
+com/exercise/service/StudentService.class
+com/exercise/Application.class
+com/exercise/repository/StudentRepository.class
+com/exercise/repository/RepositoryConfiguration.class
+com/exercise/controller/StudentController.class
+com/exercise/model/Student.class
